@@ -1,9 +1,9 @@
 ![Banner](https://i.imgur.com/AZ2iWek.png)
 
-![ESCOM](https://i.pinimg.com/originals/70/ee/76/70ee765bf57b903c94c49e38e9b7c39c.png) 
-![IPN](https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_instituto_politecnico_nacional_mexico.svg)
+![GitHub](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+![GitHub](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
 
-# 🕹️ Hello, Gamers! 🎮 I'm Pepe Díaz, also known as @teopis117 👋
+# 🕹️ Hello, Gamers! 🎮 I'm Pepe!, also known as @teopis117 👋
 
 ![GIF1](https://media.giphy.com/media/ynNF0bU8fB3HsInXEL/giphy.gif)
 
@@ -23,7 +23,7 @@ From JavaScript monsters to MongoDB dragons, there's no coding challenge that ca
 ![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-![Skills](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+![Skills](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
 
 ## 🎲 My Adventure Board (GitHub Stats)
 
@@ -32,7 +32,7 @@ In the vast expanse of GitHub, I've amassed an impressive collection of achievem
 ![Github stats](https://github-readme-stats.vercel.app/api?username=teopis117&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teopis117&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Achievements](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
+![Achievements](https://media.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif)
 
 ## 🌟 My Achievements in Pixel Art
 
