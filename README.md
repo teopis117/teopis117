@@ -1,22 +1,17 @@
 ![Banner](https://i.imgur.com/AZ2iWek.png)
 
-![ESCOM](https://escom.ipn.mx/assets/img/logosimbolo_b.png) ![IPN](https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_instituto_politecnico_nacional_mexico.svg)
+![ESCOM](https://i.pinimg.com/originals/70/ee/76/70ee765bf57b903c94c49e38e9b7c39c.png) 
+![IPN](https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_instituto_politecnico_nacional_mexico.svg)
 
-# 🕹️ Hello, Gamers! 🎮 I'm Pepe Díaz, also known in the digital realm as @teopis117 👋
+# 🕹️ Hello, Gamers! 🎮 I'm Pepe Díaz, also known as @teopis117 👋
 
 ![GIF1](https://media.giphy.com/media/ynNF0bU8fB3HsInXEL/giphy.gif)
 
-In the real world, I'm a Computer Systems Engineer from IPN ESCOM in Mexico, but in the digital world, I'm a fearless adventurer of bits and pixels! 🏰💾
+In the real world, I'm a Computer Systems Engineer from IPN ESCOM in Mexico, but in the digital world, I'm a fearless adventurer of bits and pixels! 🏰💾 I'm passionate about the vast and fascinating world of software development, but where I truly shine is in video game creation. After all, who needs a sword and a shield when you've got Flutter and Azure?
 
-![Adventure](https://media.giphy.com/media/8b2sH6DGLc6My5rxAo/giphy.gif)
-
-I'm passionate about the vast and fascinating world of software development, but where I truly shine is in video game creation. After all, who needs a sword and a shield when you've got Flutter and Azure?
-
-![Coding](https://media.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif)
+![Coding](https://media.giphy.com/media/l0HeqCXn1qjs8dqKs/giphy.gif)
 
 From JavaScript monsters to MongoDB dragons, there's no coding challenge that can resist my programming skills. I've collaborated on many projects, but the ones that I've enjoyed the most are those that have allowed me to delve into the deepest corners of video games, Flutter, and Azure.
-
-![Monsters](https://media.giphy.com/media/ynNF0bU8fB3HsInXEL/giphy.gif)
 
 ![Profile views](https://gpvc.arturio.dev/teopis117)
 
@@ -28,7 +23,7 @@ From JavaScript monsters to MongoDB dragons, there's no coding challenge that ca
 ![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-![Skills](https://media.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif)
+![Skills](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
 ## 🎲 My Adventure Board (GitHub Stats)
 
@@ -37,13 +32,11 @@ In the vast expanse of GitHub, I've amassed an impressive collection of achievem
 ![Github stats](https://github-readme-stats.vercel.app/api?username=teopis117&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teopis117&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Achievements](https://media.giphy.com/media/ynNF0bU8fB3HsInXEL/giphy.gif)
+![Achievements](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
 
 ## 🌟 My Achievements in Pixel Art
 
-![GIF2](https://media.giphy.com/media/3oEjHGr1Fhz0kyv8Ig/giphy.gif)
-
-As president of my university's video game development club, I am proud to share my creations. Prepare yourself for a deep dive into magical pixelated worlds and unique gaming experiences! (Here you could add links to your projects or images of your works)
+As president of my university's video game development club, I am proud to share my creations. Prepare yourself for a deep dive into magical pixelated worlds and unique gaming experiences!
 
 ![PixelArt](https://media.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif)
 
