@@ -1,10 +1,10 @@
 ![Banner](https://i.imgur.com/AZ2iWek.png)
 
-# 🕹️ ¡Hola, Gamers! 🎮 Yo soy Pepe Díaz a.k.a @teopis117 👋
+# 🕹️ ¡Hola, Gamers! 🎮 Yo soy Pepe Díaz  @teopis117 👋
 
 ![GIF1](https://media.giphy.com/media/FjLOgvd2PpZeRIPLTR/giphy.gif)
 
-¡Soy un aventurero de los bits y pixeles, Ingeniero en Sistemas Computacionales de la IPN ESCOM en México! En este mundo de 1s y 0s, el desarrollo de videojuegos y software es mi dungeon favorito. 🏰💾 No hay jefe final que me detenga cuando se trata de aprender nuevas tecnologías.
+¡Soy un aventurero de los bits y pixeles, Ingeniero en Sistemas Computacionales de la IPN ESCOM en México! Me apasiona el mundo de 1s y 0s, especialmente cuando se trata de desarrollo de videojuegos y software. 🏰💾 No hay jefe final que me detenga cuando se trata de aprender nuevas tecnologías. He tenido la suerte de colaborar en muchos proyectos, pero los que más disfruto son aquellos relacionados con videojuegos, Flutter y Azure.
 
 ![Profile views](https://gpvc.arturio.dev/teopis117)
 
@@ -19,16 +19,13 @@
 ## 🎲 Mi Tablero de Aventuras (GitHub Stats)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=teopis117&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teopis117&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌟 Mis logros en Pixel Art
 
 ![GIF2](https://media.giphy.com/media/3oEjHGr1Fhz0kyv8Ig/giphy.gif)
 
-Como presidente del club de desarrollo de videojuegos de mi universidad, me enorgullece compartir mis creaciones. ¡Prepárate para sumergirte en mundos mágicos y experiencias pixeladas únicas!
-
-## 🎵 Mis melodías épicas (Spotify Playing)
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=<spotify_username>&cover_image=true&theme=default)](https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh?si=75426709f9074d0d)
+Como presidente del club de desarrollo de videojuegos de mi universidad, me enorgullece compartir mis creaciones. ¡Prepárate para sumergirte en mundos mágicos y experiencias pixeladas únicas! (Aquí podrías agregar enlaces a tus proyectos o imágenes de tus obras)
 
 ## 💌 ¡Únete a mi guild! (Contáctame)
 
