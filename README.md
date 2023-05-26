@@ -1,7 +1,5 @@
 ![Banner](https://i.imgur.com/AZ2iWek.png)
 
-![GitHub](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
-![GitHub](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
 
 # 🕹️ Hello, Gamers! 🎮 I'm Pepe!, also known as @teopis117 👋
 
